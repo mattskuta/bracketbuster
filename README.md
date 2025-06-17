@@ -1,6 +1,6 @@
 # Bracket Buster — Letterboxd Search URL Cleaner
 
-**Author:** Matt Skuta  
+**Author:** Matt Skuta (Letterboxd.com/skuta)
 **Version:** 1.0  
 **Website:** [mattskuta.com](https://mattskuta.com)
 
