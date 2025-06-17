@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Letterboxd Search: Bracket Buster
-// @namespace    https://mattskuta.com/
+// @namespace    https://letterboxd.com/skuta
 // @version      1.0
 // @description  Strip parentheses from Letterboxd search URLs and reload corrected search automatically
 // @author       Matt Skuta

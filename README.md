@@ -1,12 +1,12 @@
 # Bracket Buster — Letterboxd Search URL Cleaner
 
-**Author:** Matt Skuta
+**Author:** Matt Skuta  
 **Version:** 1.0  
-**Website:** [mattskuta.com](https://mattskuta.com)
+**Website:** [letterboxd.com/skuta](https://letterboxd.com/skuta)
 
 ## Description
 
-Bracket Buster is a lightweight Tampermonkey userscript that automatically fixes Letterboxd's search URLs when you type or copy-paste movie titles containing parentheses (e.g., years in `(YYYY)` format).
+Bracket Buster is a lightweight Tampermonkey userscript that automatically fixes Letterboxd's search URLs when you when you type or copy-paste movie titles containing parentheses (e.g., years in `(YYYY)` format).
 
 By removing the parentheses while preserving the content inside, it improves Letterboxd's search accuracy for titles like:
 
